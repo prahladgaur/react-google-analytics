@@ -4,7 +4,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      Hello, this is my react application and it is home page.
+      Hello, this is my react application With Google analytics
+
     </div>
   );
 }
